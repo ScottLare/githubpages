@@ -10,7 +10,7 @@ A "table of contents" for various documentation gh-pages static websites used fo
 
 |  Documentation Index       |
 |:-------------|
-| :book: [Ardan Challenge Documentation](https://scottlare.github.io/ardanchanllenge/) |
+| :book: [Ardan Challenge Documentation](https://scottlare.github.io/ardanchallenge/) |
 | :book: [Whole Body Documentation](https://scottlare.github.io/wholebody/) |
 | :book: [Kalledge Documentation](https://scottlare.github.io/kalledge/) |
 | :book: [RTI Documentation](https://scottlare.github.io/kalledge/) |
